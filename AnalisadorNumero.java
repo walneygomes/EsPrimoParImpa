@@ -36,7 +36,7 @@ public class AnalisadorNumero {
 	}
 
 	public boolean esImpa() {
-		tabela.clear();
+		
 
 		if (!esPar()) {
 			return true;
